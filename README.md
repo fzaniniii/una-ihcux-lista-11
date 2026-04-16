@@ -51,4 +51,4 @@ Através do chat, os usuários combinam a retirada do item. Após a conclusão d
 
 ## 📸 Protótipo
 
-![Protótipo ReCiclo](.prototipo.png)
+![Protótipo ReCiclo](.prototipo/prototipo.png)
